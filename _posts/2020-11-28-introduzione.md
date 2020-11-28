@@ -22,8 +22,4 @@ Cosa troverete qui:
 - Un sacco di considerazioni inutili, perlopiù di seconda mano, su _Traveller_ e su _Cepheus Engine_.
 - Se ci sarà tempo, aggiornamenti su un paio di progetti di mio pugno.
 
-Il titolo suonerebbe meglio in inglese perché avrebbe dei riferimenti che vanno a perdersi: _Travellers & Wonderers_. Il primo si spiega da solo leggendo sopra. Il secondo è solo per gli adetti e viene da un [vecchio thread](https://odd74.proboards.com/thread/1129?page=1) e si riassume con questa immagine:
-
-![Wanderer](http://dirk.files.wordpress.com/2007/07/dsc01828.jpg)
-
 In ogni caso: benvenuti a tutti!
