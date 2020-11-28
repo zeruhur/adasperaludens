@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "About"
+title:  "Prefazione"
 author: "Zeruhur"
-permalink: /about/
+comments: true
+tags: Fronzoli
 ---
 
-Probabilmente ci conosciamo già, quindi sarò breve:  
-- Frequento i giochi di ruolo da tavolo da vent'anni e ci giocai parecchio negli anni universitari. In seguito, mancanza di gruppo e vicissitudini della vita mi allontanarono da quel mondo.  
+Probabilmente ci conosciamo già, quindi sarò breve e poi si andrà sempre al sodo:  
+- Frequento i giochi di ruolo da tavolo da vent'anni e ci giocai parecchio negli anni universitari. Partecipavo anche a delle LARP di Vampiri, ma non ne ho dei buoni ricordi. In seguito, mancanza di gruppo e vicissitudini della vita mi allontanarono da quel mondo.  
 - Ho perso D&D 4a Edizione, la nascita e la caduta di The Forge, i primi passi del movimento OSR.  
 - Ho ripreso da meno di un anno, ho letto molto e giocato, purtroppo, meno.  
 - I miei GDR preferiti sono:
@@ -20,3 +21,9 @@ Cosa troverete qui:
 - Materiali scovati in giro per i suddetti.
 - Un sacco di considerazioni inutili, perlopiù di seconda mano, su _Traveller_ e su _Cepheus Engine_.
 - Se ci sarà tempo, aggiornamenti su un paio di progetti di mio pugno.
+
+Il titolo suonerebbe meglio in inglese perché avrebbe dei riferimenti che vanno a perdersi: _Travellers & Wonderers_. Il primo si spiega da solo leggendo sopra. Il secondo è solo per gli adetti e viene da un [vecchio thread](https://odd74.proboards.com/thread/1129?page=1) e si riassume con questa immagine:
+
+![Wanderer](http://dirk.files.wordpress.com/2007/07/dsc01828.jpg)
+
+In ogni caso: benvenuti a tutti!
