@@ -1,7 +1,7 @@
 # Site settings
-title:          Viaggiatori & Viandanti
-description:    "I miei viaggi nei mondi dei GDR"
-baseurl:        "/vv"
+title:          Per Aspera Ludens
+description:    "Nei perigli, io gioco"
+baseurl:        "/gdrblog"
 url:            "https://zeruhur.github.io"
 
 # Google Analytics
