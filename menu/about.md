@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "About"
-author: "Zeruhur"
-permalink: /about/
 ---
 
 Probabilmente ci conosciamo già, quindi sarò breve:  
