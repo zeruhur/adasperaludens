@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Archive', path: 'menu', url: 'archive.html'}
-#- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Chi sono', path: 'menu', url: 'about.html'}
+- {name: 'Archivio', path: 'menu', url: 'archive.html'}
+- {name: 'Dove Trovarmi', path: 'menu', url: 'https://wheretofind.me/@zeruhur'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
