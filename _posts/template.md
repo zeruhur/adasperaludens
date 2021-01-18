@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "Prefazione"
+author: "zeruhur"
 comments: true
-tags: Tale
+tags: [swords & wizardry, cepheus engine, risus]
+categories: fronzoli
+image:
 ---

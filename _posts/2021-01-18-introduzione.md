@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Prefazione"
-author: "Zeruhur"
+author: "zeruhur"
 comments: true
 tags: [swords & wizardry, cepheus engine, risus]
-categories: Fronzoli
+categories: fronzoli
+image: https://c.pxhere.com/photos/d4/61/cube_roll_the_dice_play_luck_patience_craps_series_points-1192193.jpg
 ---
 
 Probabilmente ci conosciamo già, quindi sarò breve e poi si andrà sempre al sodo:  

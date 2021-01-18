@@ -9,6 +9,7 @@ google-ID: 'G-4M6BX297FY'
 menu:
 - {name: 'Chi sono', path: 'menu', url: 'about.html'}
 - {name: 'Archivio', path: 'menu', url: 'archive.html'}
+- {name: 'Categorie', path: 'menu', url: 'categories.html'}
 - {name: 'Dove Trovarmi', path: 'menu', url: 'https://wheretofind.me/@zeruhur'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
