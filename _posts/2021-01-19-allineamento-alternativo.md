@@ -23,24 +23,24 @@ Dato che in *Roamers* la generazione del personaggio è per gran parte casuale (
 La tabella è una versione semplificata di quella di Wikipedia, dove è possibile approfondire la teoria dietro. Io credo che le parole chiave siano sufficienti per suggerire il temperamento senza dare una descrizione precisa e vincolante, fornendo una buona linea guida al giocatore per l'interpretazione.
 
 
-| D66   | 1             | 2             | 3             | 4             | 5             | 6             |
-|:-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **1** | Pensatore      | Mediatore    | Leale      | Entusiasta    | Competitivo    | Mediatore    |
-| **2** | Perfezionista | Esecutore     | Individualista | Leale      | Entusiasta    | Competitivo    |
-| **3** | Aiutante        | Perfezionista | Esecutore     | Individualista | Leale      | Entusiasta    |
-| **4** | Pensatore      | Aiutante        | Perfezionista | Esecutore     | Individualista | Leale      |
-| **5** | Competitivo    | Pensatore      | Aiutante        | Perfezionista | Esecutore     | Individualista |
-| **6** | Entusiasta    | Competitivo    | Pensatore      | Aiutante        | Mediatore    | Mediatore    |
+| D66   | 1             | 2             | 3              | 4              | 5              | 6              |
+|:-----:|:-------------:|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| **1** | Pensatore     | Mediatore     | Leale          | Entusiasta     | Competitivo    | Mediatore      |
+| **2** | Perfezionista | Esecutore     | Individualista | Leale          | Entusiasta     | Competitivo    |
+| **3** | Aiutante      | Perfezionista | Esecutore      | Individualista | Leale          | Entusiasta     |
+| **4** | Pensatore     | Aiutante      | Perfezionista  | Esecutore      | Individualista | Leale          |
+| **5** | Competitivo   | Pensatore     | Aiutante       | Perfezionista  | Esecutore      | Individualista |
+| **6** | Entusiasta    | Competitivo   | Pensatore      | Aiutante       | Mediatore      | Mediatore      |
 
-| Profilo                    | Fissazione                    | Idea fondamentale        | Tentazione                                   | Vizio            |
-|:----------------------------:|:-------------------------------:|:--------------------------:|:----------------------------------------------:|:------------------:|
-| Perfezionista | Risentimento                  | Perfezione               | Ipocrisia, ipercriticismo                    | Ira              |
-| Aiutante       | Adulazione                    | Libertà, volontà         | Negare i propri bisogni, manipolazione       | Superbia         |
-| Esecutore        | Vanità                        | Speranza, legge          | Essere reputato il migliore                  | Inganno          |
-| Individualistaa    | Malinconia                    | Idea di sè               | Abusare di immaginazione in cerca di sè      | Invidia          |
-| Pensatore   | Conservazione                 | Onniscienza, Trasparenza | Sostituire le esperienze reali con concetti  | Avarizia         |
-| Leale           | Preoccupazione                | Fiducia                  | Indecisione, dubbi, cercare rassicurazione   | Viltà / Codardia |
-| Entusiasta   | Pianificazione, Anticipazione | Saggezza                 | Credere che la felicità vada cercata altrove | Gola             |
-| Competitivo        | Rivalsa                       | Verità                   | Crede di essere forte e autosufficiente      | Lussuria         |
-| Mediatore    | Indolenza                     | Amore                    | Evitare conflitti                            | Accidia          |
 
+| Temperamento        | Fissazione                    | Idea fondamentale        | Tentazione                                   | Vizio            | Virtù       |
+|:-------------------:|:-----------------------------:|:------------------------:|:--------------------------------------------:|:----------------:|:-----------:|
+| **Perfezionista**   | Risentimento                  | Perfezione               | Ipocrisia, ipercriticismo                    | Ira              | Serenità    |
+| **Aiutante**        | Adulazione                    | Libertà, volontà         | Negare i propri bisogni, manipolazione       | Superbia         | Umiltà      |
+| **Esecutore**       | Vanità                        | Speranza, legge          | Essere reputato il migliore                  | Inganno          | Verità      |
+| **Individualista**  | Malinconia                    | Idea di sè               | Abusare di immaginazione in cerca di sè      | Invidia          | Equanimità  |
+| **Pensatore**       | Conservazione                 | Onniscienza, Trasparenza | Sostituire le esperienze reali con concetti  | Avarizia         | Distacco    |
+| **Leale**           | Preoccupazione                | Fiducia                  | Indecisione, dubbi, cercare rassicurazione   | Viltà / Codardia | Coraggio    |
+| **Entusiasta**      | Pianificazione, Anticipazione | Saggezza                 | Credere che la felicità vada cercata altrove | Gola             | Sobrietà    |
+| **Competitivo**     | Rivalsa                       | Verità                   | Crede di essere forte e autosufficiente      | Lussuria         | Innocenza   |
+| **Mediatore**       | Indolenza                     | Amore                    | Evitare conflitti                            | Accidia          | Azione      |
