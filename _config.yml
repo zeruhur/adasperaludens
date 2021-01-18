@@ -23,6 +23,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'compitum praecipuum mundos'
 description:	       'il crocevia dei mondi'
 author:              'zeruhur'
+future: false
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
