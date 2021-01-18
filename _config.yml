@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'compitum praecipuum mundos'
-description:	       'il crocevia dei mondi'
+title:		           'Il Tempio di Syrinx'
+description:	       ''
 author:              'zeruhur'
 future: false
 
