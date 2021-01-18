@@ -3,11 +3,12 @@ layout: post
 title:  "Prefazione"
 author: "Zeruhur"
 comments: true
-tags: Fronzoli
+tags: [swords & wizardry, cepheus engine, risus]
+categories: Fronzoli
 ---
 
 Probabilmente ci conosciamo già, quindi sarò breve e poi si andrà sempre al sodo:  
-- Frequento i giochi di ruolo da tavolo da vent'anni e ci giocai parecchio negli anni universitari. Partecipavo anche a delle LARP di Vampiri, ma non ne ho dei buoni ricordi. In seguito, mancanza di gruppo e vicissitudini della vita mi allontanarono da quel mondo.  
+- Frequento i giochi di ruolo da tavolo da vent'anni e ci giocai parecchio negli anni universitari. Partecipavo anche a dei LARP di Vampiri, ma non ne ho dei buoni ricordi. In seguito, mancanza di gruppo e vicissitudini della vita mi allontanarono da quel mondo.  
 - Ho perso D&D 4a Edizione, la nascita e la caduta di The Forge, i primi passi del movimento OSR.  
 - Ho ripreso da meno di un anno, ho letto molto e giocato, purtroppo, meno.  
 - I miei GDR preferiti sono:
