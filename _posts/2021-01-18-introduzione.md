@@ -5,7 +5,7 @@ author: "zeruhur"
 comments: true
 tags: [swords & wizardry, cepheus engine, risus]
 categories: fronzoli
-image: https://c.pxhere.com/photos/d4/61/cube_roll_the_dice_play_luck_patience_craps_series_points-1192193.jpg
+image: https://i.ibb.co/qymVqpq/hand-play-number-recreation-finger-color-1192193-pxhere-com.jpg
 ---
 
 Probabilmente ci conosciamo già, quindi sarò breve e poi si andrà sempre al sodo:  
