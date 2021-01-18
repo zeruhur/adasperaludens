@@ -21,7 +21,7 @@ Probabilmente ci conosciamo già, quindi sarò breve e poi si andrà sempre al s
 Cosa troverete qui:
 - Recensioni non richieste di RPG pubblicati più che altro in lingua inglese, perché noi (purtroppo) facciamo provincia.
 - Materiali scovati in giro per i suddetti.
-- Un sacco di considerazioni inutili, perlopiù di seconda mano, su _Traveller_ e su _Cepheus Engine_.
+- Un sacco di considerazioni inutili, perlopiù di seconda mano, su _Swords & Wizardry_ e su _Cepheus Engine_.
 - Se ci sarà tempo, aggiornamenti su un paio di progetti di mio pugno.
 
 In ogni caso: benvenuti a tutti!
