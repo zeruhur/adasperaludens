@@ -5,7 +5,7 @@ author: "zeruhur"
 comments: true
 tags: [swords & wizardry, cepheus engine, risus]
 categories: fronzoli
-image: https://i.ibb.co/qymVqpq/hand-play-number-recreation-finger-color-1192193-pxhere-com.jpg
+image: dice.jpg
 ---
 
 Probabilmente ci conosciamo già, quindi sarò breve e poi si andrà sempre al sodo:  
