@@ -23,7 +23,10 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'Il Tempio di Syrinx'
 description:	       'OSR e dintorni'
 author:              'zeruhur'
+
+# Scheduling
 future: false
+timezone: Europe/Rome
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
