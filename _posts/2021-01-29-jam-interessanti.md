@@ -22,15 +22,15 @@ Lo scopo primario è fornire un tema e uno spunto ai creativi. Solitamente il mi
 
 **Come partecipare**
 
-L'unico pre-requisito effettivo è il possesso di un account su itch.io. Le altre limitazioni (di tema, di tempi, di lunghezza e di formato) sono fornire nel testo del contest stesso.
+L'unico pre-requisito effettivo è il possesso di un account su itch.io. Le altre limitazioni (di tema, di tempi, di lunghezza e di formato) sono fornite nel testo del contest stesso.
 
 **Jam interessanti in ambiti GDR cartaceo ancora attivi**
 
-- Tra due giorni chiude il *[One Page Derelict Jam Winter 2021](https://itch.io/jam/one-page-derelict), di cui sono l'host. La mia idea era avere un parallelo fantascientifico del ben più noto, antico e venerabile *One Page Dungeon*. L'iniziativa è aperta sia all'italiano che all'inglese. Ahimé, tutte le sottomissioni per il momento sono in inglese. Conto di farne un'altra edizione in tarda estate.
+- Tra due giorni chiude il [One Page Derelict Jam Winter 2021](https://itch.io/jam/one-page-derelict), di cui sono l'host. La mia idea era avere un parallelo fantascientifico del ben più noto, antico e venerabile *One Page Dungeon*. L'iniziativa è aperta sia all'italiano che all'inglese. Ahimé, tutte le sottomissioni per il momento sono in inglese. Conto di farne un'altra edizione in tarda estate.
 
 - [The Great Troika! Pocket Sphere Jam!](https://itch.io/jam/the-great-troika-pocket-sphere-jam) è un interessantissimo Jam il cui scopo è scrivere un'ambientazione per Troika! (le cosiddette sfere nel gergo del gioco), nell'amato/odiato formato [pocketmod](https://pocketmod.com/).
 
-- [Dreaming Jam](https://itch.io/jam/dreaming-game-jam) è un jam gdr a tema "sogno". È stato il motivo scatenante per cui ho scritto [Roamers of the Dream](https://zeruhur.itch.io/roamers-of-the-dream), ma c'è tanto materiale più valido del mio da spulciare, comprese un paio di zine su Troika! (che va fortissimo su itch.io).
+- [Dreaming Jam](https://itch.io/jam/dreaming-game-jam) è un jam gdr a tema "sogno". È stato il motivo scatenante per cui ho scritto [Roamers of the Dream](https://zeruhur.itch.io/roamers-of-the-dream), ma c'è altro materiale OSR più valido del mio da spulciare, comprese un paio di zine su Troika! (che va fortissimo su itch.io).
 
 - [Cosmic Horror Tabletop RPG Jam](https://itch.io/jam/cosmic-horror-jam), ovviamente a tema lovecraftiano. Io spero di partecipare con un'idea di ambientazione per [Cthulhu Dark](https://site.pelgranepress.com/index.php/cthulhu-dark/), a mio avviso il sistema perfetto per giocare l'orrore cosmico. Ma non si sa mai cosa potrebbe venirne fuori, esistono parecchi regolamenti OSR per giocare Lovecraft (anzi devo farci un post!), quindi potremmo vederne delle belle!
 
