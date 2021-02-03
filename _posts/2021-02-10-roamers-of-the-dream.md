@@ -17,6 +17,7 @@ Le regole sono molto leggere, il sistema di gioco è semplice da imparare e trov
 - Meccaniche roll-over 2d6
 - Magia in forma libera
 - Tabelle casuali per ispirare i vostri personaggi e partite
+- Temperamento basato sulla psicologia degll'enneagramma al posto degli allineamenti classici
 - Due mappe (disponibili nel PDF e come download indipendenti)
 - I giocatori assumeranno il ruolo di *Roamers* che dovranno vivere, sopravvivere e trovare un modo per svegliarsi prima di perdere definitivamente la loro Lucidità.
 - La lucidità è un'abilità speciale, alternativa alla magia, che potenzialmente diminuisce con il tempo e l'uso.
