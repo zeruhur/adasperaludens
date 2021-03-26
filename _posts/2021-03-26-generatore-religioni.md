@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Generatore Casuale di Religioni, per coloro che non hanno voglia"
+title:  "Generatore Casuale di Religioni, per coloro che (non) credono"
 author: "zeruhur"
 comments: true
 tags: [generatori, osr, vecchio carnevale blogghereccio]
