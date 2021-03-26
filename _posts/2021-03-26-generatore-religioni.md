@@ -8,6 +8,9 @@ categories: materiale
 image:
 ---
 Questo post partecipa al [Vecchio Carnevale Blogghereccio](https://oicn.icu/2021/Vecchio-Carnevale-Blogghereccio/), il tema di questo mese è la [religione](https://dismastersden.blogspot.com/2021/03/vecchio-carnevale-blogghereccio-la.html), ospitato dal sempiterno Dismaster FraNe.  
+
+![Il logo del Vecchio Carnevale Blogghereccio](https://i.imgur.com/yF1KpYD.jpg)
+
 Un tema che mi ha dato molto filo da torcere. La seconda idea è stata di preparare un one page dungeon con il titolo *Il labirinto del Signore del Vuoto*. Prima o poi lo pubblicherò, quando troverò l'ispirazione per finirlo, ma ho dovuto constatare la sua temporanea assenza e per onestà intellettuale non mi andava di propinarvi una ciofeca.
 
 Ecco quindi che vi propongo la prima idea, che sinceramente mi sembrava bislacca, ma che alla luce del fallimento di cui sopra mi sembra meglio che andare in bianco!  
