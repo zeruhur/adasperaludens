@@ -16,6 +16,8 @@ Un tema che mi ha dato molto filo da torcere. La seconda idea è stata di prepar
 Ecco quindi che vi propongo la prima idea, che sinceramente mi sembrava bislacca, ma che alla luce del fallimento di cui sopra mi sembra meglio che andare in bianco!  
 Ecco quindi a voi: *Generatore Casuale di Religione* per le vostre campagne!
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
+
 # Istruzioni generali
 Tirate sulle seguenti tabelle per generare ciascun tema. Alcune tabelle dipendono da quelle precedenti
 
@@ -123,4 +125,5 @@ Tirate sulle seguenti tabelle per generare ciascun tema. Alcune tabelle dipendon
 | 4   | È praticata in segreto, dagli iniziati al culto         |
 | 5   | È comune, non ha particolari relazioni con la religione |
 | 6   | È rara, non ha particolari relazioni con la religione   |
+
 
