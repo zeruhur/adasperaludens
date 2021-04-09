@@ -161,17 +161,16 @@ I più noti e riusciti sono:
 - [Scarlett Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes): con la [quickstart](https://www.drivethrurpg.com/product/127458/Scarlet-Heroes-Quickstart) vi fate un'idea, ma manca completamente la "ciccia": tutta la serie di generatori e tabelle casuali che fanno di questo gioco la soluzione completa sia per la modalità 1-on-1 (un master, un giocatore) sia quella solitaria. Il sistema è scalato espressamente per permettere di giocare con un solo PG. Si può giocare sia con l'ambientazione presentata nel manuale che usare i tool con il proprio OSR preferito. Se non volete spendere 15 € c'è Black Streams Solo Heroes (che manca dei generatori però).
 - [Ironsworn](https://www.ironswornrpg.com/downloads): è un sistema GDR completo basato su PbtA e pensato per la modalità solitaria nativa ma anche per essere giocato in gruppo o senza master. Si avvale di oracoli e carte per generare risposte e situazioni. È molto ben considerato nella comunità di solo-players, ma non l'ho mai provato.
 - [so1um](https://zeruhur.space/so1um/): è un gioco solitario completo, con un sistema rapido di generazione personaggi e risoluzione azioni unito da un oracolo basato su FU. Sta in una sola pagina ed è una soluzione rapidissima per iniziare subito una partita veloce e senza fronzoli. Lo trovo un sistema elengatissimo, tanto che l'ho prima tradotto e poi espanso in [so1um enhanced](https://zeruhur.space/so1um-enhanced/).
-- [Miso RPG](https://drive.google.com/file/d/0B_-xbQHT9wDGUklVRzRjNmZMLXc/view): di Sophia Brandt, un'appassionata di gdr solitari che purtroppo si è "ritirata". Il suo blog ]
-[DieHeart](https://www.dieheart.net/solo-rpg-resources/) è una mineria di informazioni e recensioni.
+- [Miso RPG](https://drive.google.com/file/d/0B_-xbQHT9wDGUklVRzRjNmZMLXc/view): di Sophia Brandt, un'appassionata di gdr solitari che purtroppo si è "ritirata". Il suo blog [DieHeart](https://www.dieheart.net/solo-rpg-resources/) è una mineria di informazioni e recensioni.
 
 ## Generatori procedurali:
 
 - [Hexmancer](https://www.martinralya.com/wp-content/uploads/2016/02/Hexmancer-v.1.pdf): un generatore procedurale per hexcrawl. Semplice, veloce, bello.
 - [Hexcrawl Procedures](https://www.basicfantasy.org/forums/viewtopic.php?f=19&t=3987#p74179): un supplemento di Basic Fantasy Role-Playing Game che vi permette di impostare una campagna solitaria hexcrawl completa.
-- [OSRIC (Capitolo IV)](https://osricwiki.presgas.name/doku.php?id=osric:chapter4&s%5B%5D=solo#random_dungeon_generation): se non avete soldi da spendere nella DMG, questa il migliore clone dell'Appendice A. Non è sotto OGL, ma è gratuito.
+- [OSRIC (Capitolo IV)](https://osricwiki.presgas.name/doku.php?id=osric:chapter4&s%5B%5D=solo#random_dungeon_generation): se non avete soldi da spendere nella DMG, questa il migliore clone dell'Appendice A. Questo specifico capitolo di OSRIC non è sotto OGL, ma come tutto il resto del regolamento è gratuito.
 
 ## Tool digitali
 
-- [GM's Apprentice](http://jamesturneronline.net/game-masters-apprentice/): una versione web gratuita del Game Master's Apprentice deck che prende spunto anche da altri motori sopra esaminati. Se avete una connessione internet è la vostra migliore chance di avere un oracolo completo.
+- [GM's Apprentice](http://jamesturneronline.net/game-masters-apprentice/): una versione web gratuita del GameMaster's Apprentice deck che prende spunto anche da altri motori sopra esaminati. Se avete una connessione internet è la vostra migliore chance di avere un oracolo completo.
 - [Hex Describe](https://campaignwiki.org/hex-describe): genera una campagna hexcrawl completa con descrizione di ciascun esagano. Di Alex Schröder.
 - [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith): app Android, una suite completa di generatori casuali (tratti dai prodotti più interessanti, tra cui Knave, ) e oracoli (tra cui MUNE, Game Master Apprentice, CRGE e UNE).
