@@ -27,14 +27,14 @@ Qualsiasi sia la tua motivazione, sappi che il gioco in solitaria non è figlio 
 
 # In sintesi (per i pigri): Giocare OSR in solitario
 
-Chiarisco che io adoro [*Four Against Darkness*](https://www.msedizioni.it/catalogo-giochi/four-against-darkness/) e anche [*Dungeons*](http://www.dungeoneer-games.it/catalogo/) sembra essere interessante. Sono dungeon crawler carta e penna che richiamano alcune meccaniche e tropi dei gdr old school, ma non sono e non pretedenono di essere gdr completi (ciònonostante io li consiglio comunque).
+Chiarisco che io adoro [*Four Against Darkness*](https://www.msedizioni.it/catalogo-giochi/four-against-darkness/) e anche [*Dungeons*](http://www.dungeoneer-games.it/catalogo/) sembra essere interessante. Sono dungeon crawler carta e penna che richiamano alcune meccaniche e tropi dei gdr old school, ma non sono e non pretendono di essere gdr completi (ciònonostante io li consiglio comunque).
 
 È totalmente possibile giocare in solitario gli OSR e per farlo vi servono:
 1. Un oracolo (vedi sotto).
 2. Tante tabelle casuali (ma queste le avete già, mica devo suggerirvele io no?): voci di taverna, esche e agganci per l'avventura, patroni, PNG, descrizioni di ambienti, di suoni, di rumori etc etc.
 3. Generatori procedurali di terre selvagge e dungeon. Opzionali e non strettamente necessari, potreste usare delle mappe pregenerate e tirare semplicemente per i contenuti. Io personalmente però preferisco l'elemento sorpresa e quindi generare tutto man mano che esploro. Un ottimo punto di partenza solo le Appendici A e B della DMG di AD&D. Vi linko in calce anche delle risorse gratuite. Ma tanto lo sapete che dovete acquistarvi la DMG comunque, no?
-4. Scalabilità. Gli OSR sono perlopiù pensati per giocare in party. Questo determina una mortalità ancora più alta del solito se si gioca un solo personaggio senza accorgimenti:
-	- preparare le schede per un intero party e muovere tutti i personaggi: è faticoso, ma se vi piace perché no? Inoltre potete giocare le relazioni tra i personaggi, se volete più fiction.
+4. Scalabilità. Gli OSR sono perlopiù pensati per giocare in party. Questo determina una mortalità ancora più alta del solito se si gioca un solo personaggio senza accorgimenti, quindi potete:
+	- Preparare le schede per un intero party e muovere tutti i personaggi: è faticoso, ma se vi piace perché no? Inoltre potete giocare le relazioni tra i personaggi, se volete più fiction.
 	- Utilizzare un solo PG e circondarlo di mercenari e gregari: andate in deroga e utilizzateli già a livelli bassi. Saranno solo pedine da utilizzare in battaglia. Generano meno fiction, ovviamente, ma per i dungeon crawl rapidi c'è meno da gestire.
 	- Utilizzare un metodo di risoluzione che permetta di giocare un solo PG mantenendo le statistiche degli avversari intatte. Qui c'è solo un'alternativa che mi venga in mente: [*Black Streams Solo Heroes*](https://www.drivethrurpg.com/product/114895/Black-Streams-Solo-Heroes) di Kevin Crawford (poi sviluppato in Scalett Heroes, vedi sotto).
 	
