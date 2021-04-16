@@ -190,7 +190,7 @@ I personaggi hanno alcuni modi per accedere a corte in ogni caso:
 Le fognature sono un intricato sistema sotterraneo non mappato, accessibile da tombini e grate sparsi per le vie del centro città. È molto facile perdersi là sotto. Il gruppo scoprirà mano a mano che esplora il sotterraneo cosa incontrerà. L'arbitro genera casualmente ciascun ambiente numerandolo:
 
 - **1d4**: Numero di uscite nell'ambiente.
-- **1d6**: tirando 5 si trova traccia di una creatura che vaga per le fogne (alligatore per una sfida normale, per una sfida più . Tirando 6 la creatura è già nell'ambiente e va combattutao evitata.
+- **1d6**: tirando 5 si trova traccia di una creatura che vaga per le fogne (alligatore per una sfida normale, un mostro di livello medio per una sfida più impegnativa). Tirando 6 la creatura è già nell'ambiente e va combattutao evitata.
 - **1d12**: valore al quadrato dei tesori contenuti nella stanza. Con 12 dentro la stanza, da qualche parte, vi è un oggetto magico.
 - **1d20**: Quando i PG passano da un ambiente all'altro attraverso un'uscita viene tirato il dado. Il tiro corrisponde al numero della stanza di destinazione. Se la stanza è già stata esplorata l'arbitro terrà traccia della connessione tra i due ambienti (tracciando una linea su uno schema), altrimenti disegna il nuovo ambiente. Tirando 1 o 20 l'uscita conduce fuori dalle fogne dentro al castello.
 
