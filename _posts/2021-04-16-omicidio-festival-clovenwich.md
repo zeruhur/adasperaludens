@@ -171,9 +171,9 @@ Per accedere alla residenza i personaggi possono:
 Si verrà ammessi alla presenza del Lagravio Remonnet, per cui sarà necessario tirare per la reazione. In caso di effrazione la reazione sarà automaticamente ostile.
 È possibile colloquiare con il Lagravio oppure interrogarlo con la forza. Nel secondo caso chiaramente gli schiamazzi richiameranno le sue guardie personali.
 Quale che sia la modalità utilizzata si possono carpire queste informazioni:
-1. Il Lagravio e la vittima si sono incontrati la notte dell'omicidio nel Tempio, ma Remonnet sostiene la sua innocenza. È statp Auguinare a richiedere l'incontro, per un sospetto traffico d'armi che coinvolgeva, a suo dire, Lord Armand.
+1. Il Lagravio e la vittima si sono incontrati la notte dell'omicidio nel Tempio, ma Remonnet sostiene la sua innocenza. È statp Auguinare a richiedere l'incontro, per un ***sospetto traffico d'armi che coinvolgeva***, a suo dire, Lord Armand.
 2. Remonnet conferma che non ci fosse amore tra i due, ma che comunque stimasse l'operato del conestabile. Pare che fosse ricambiato, visto che si è rivolto a lui per parlare dei sospetti di congiura.
-3. Se gli si pone il pugnale davanti, negherà di esserne il proprietario ma di conoscere la bottega dove è stato fabbricato.
+3. Se gli si pone ***il pugnale*** davanti, negherà di esserne il proprietario ma di conoscere la ***bottega dove è stato fabbricato***.
 
 Se Remonnet è il colpevole è possibile strappargli la confessione con la forza.
 
@@ -218,7 +218,7 @@ L'esito non è scontato e dipende dalle indagini svolte, ovvero dal numero di in
 | 3 - 4  | Il gruppo viene espluso dalla città |
 | 5 - 6  | Il gruppo viene congedato senza ricompensa |
 | 7 - 8  | Il gruppo viene creduto e ricompensato modestamente |
-| 9+ | Il gruppo viene creduto e ricompensato lautamente |
+| 9 + | Il gruppo viene creduto e ricompensato lautamente |
 
 Se la congiura e il traffico di armi e l'omicidio del conestabile sono legati tra loro è a scelta dell'arbitro e degli eventuali tiri effettuati per definire mandante e movente, ma dovrebbe essere deciso prima dell'inizio della sessione.
 
