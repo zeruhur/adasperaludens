@@ -52,11 +52,11 @@ La vittima è il conestabile Auguinare. Cosa sarà accaduto?
 clicca [qui](https://i.imgur.com/TVSbqQr.jpg) per ingrandire
 
 # Indice dei luoghi
-a) Tempio dello Scopo e Piazza dei Fondatori
-b) La Locanda degli Orsi Ingenui
-c) Residenza Auguinare
-d) La Lama Sfidante
-e) Palazzo Remomnet
+a) Tempio dello Scopo e Piazza dei Fondatori  
+b) La Locanda degli Orsi Ingenui  
+c) Residenza Auguinare  
+d) La Lama Sfidante  
+e) Palazzo Remomnet  
 
 # Dramatis Personae
 - Roland Auguinare, conestabile. La vittima.
