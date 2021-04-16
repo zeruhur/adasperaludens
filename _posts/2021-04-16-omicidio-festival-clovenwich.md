@@ -7,7 +7,7 @@ tags: [osr, vecchio carnevale blogghereccio]
 categories: avventure
 image:
 ---
-Ed eccoci al terzo mese del Vecchio Carnevale Blogghereccio](https://oicn.icu/2021/Vecchio-Carnevale-Blogghereccio/), il tema di questo mese è [festività](https://archangelruling.blogfree.net/?t=6265224), ospitato da Barakielthearchangel.  
+Ed eccoci al terzo mese del [Vecchio Carnevale Blogghereccio](https://oicn.icu/2021/Vecchio-Carnevale-Blogghereccio/), il tema di questo mese è [festività](https://archangelruling.blogfree.net/?t=6265224), ospitato da Barakielthearchangel.  
 
 ![Il logo del Vecchio Carnevale Blogghereccio](https://i.imgur.com/yF1KpYD.jpg)
 
@@ -49,6 +49,7 @@ La vittima è il conestabile Auguinare. Cosa sarà accaduto?
 # La mappa di Clovenwich
 
 ![Mappa di Clovenwich](https://i.imgur.com/TVSbqQr.jpg)
+clicca [qui](https://i.imgur.com/TVSbqQr.jpg) per ingrandire
 
 # Indice dei luoghi
 a) Tempio dello Scopo e Piazza dei Fondatori
