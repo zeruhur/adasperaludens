@@ -226,3 +226,5 @@ Se la congiura e il traffico di armi e l'omicidio del conestabile sono legati tr
 - La mappa di Clovenwich è generata con il [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) di Watabou
 - La sezione "Esplorare le fogne" riprende il concetto di [Sale Pieghevoli](https://archangelruling.blogfree.net/?t=6239466) di Barakielthearchangel ed è usato con permesso.
 - La struttura dell'avventura si avvale dei concetti di [5 Node Mystery](https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery) e [Three Clues Rule](https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule) di Justin Alexander.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
