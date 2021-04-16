@@ -18,7 +18,7 @@ CC BY-SA-4.0 2021 di Roberto Bisceglie
 
 Questa avventura investigativa è un point crawl ad ambientazione urbana che si basa sui concetti di "mistero a 5 nodi" e "regola dei tre indizi" di Justin Alexander.
 È pensata come interludio di una campagna di lungo corso o per una sessione one-shot.
-Le indagini porterà i personaggi a castello Warsle, ma mandante e movente possono essere scelti o generati casualmente dalle seguenti tabelle.
+L'indagine porterà i personaggi a castello Warsle, ma mandante e movente possono essere scelti o generati casualmente dalle seguenti tabelle.
 
 | d3 | Mandante |
 | :-: | :------: |
