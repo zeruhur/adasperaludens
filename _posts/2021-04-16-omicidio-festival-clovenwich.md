@@ -223,6 +223,6 @@ L'esito non è scontato e dipende dalle indagini svolte, ovvero dal numero di in
 Se la congiura e il traffico di armi e l'omicidio del conestabile sono legati tra loro è a scelta dell'arbitro e degli eventuali tiri effettuati per definire mandante e movente, ma dovrebbe essere deciso prima dell'inizio della sessione.
 
 # Attribuzioni
-- La mappa di Clovenwich è generata con Watabou City Map Generator
-- La sezione "Esplorare le fogne" riprende il concetto di "Sale Pieghevoli" di Barakielthearchangel ed è usato con permesso.
-- La struttura dell'avventura si avvale dei concetti di "Five Node Mystery" e "Three Clues Rule" di Justin Alexander.
+- La mappa di Clovenwich è generata con il [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator di Watabou
+- La sezione "Esplorare le fogne" riprende il concetto di [Sale Pieghevoli](https://archangelruling.blogfree.net/?t=6239466) di Barakielthearchangel ed è usato con permesso.
+- La struttura dell'avventura si avvale dei concetti di [5 Node Mystery](https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery) e [Three Clues Rule](https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule) di Justin Alexander.
