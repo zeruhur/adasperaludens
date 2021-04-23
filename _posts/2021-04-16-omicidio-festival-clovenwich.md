@@ -121,7 +121,7 @@ A gran voce Sir Raignald chiede se qualcuno ha visto qualcosa. Se il gruppo si a
 
 Parlando con i presenti in Piazza si possono carpire alcune voci:
 
-1. Anguinare in generale era benvoluto da tutta la cittadinanza, era riconosciuto come uomo retto e onesto, seppur severo nel suo ruolo di conestabile.
+1. Auguinare in generale era benvoluto da tutta la cittadinanza, era riconosciuto come uomo retto e onesto, seppur severo nel suo ruolo di conestabile.
 2. Nessuno ha visto Auginare entrare nel Tempio e salire sulla torre.
 3. Era nota una certa rivalità tra Auginare e il Lagravio Remonnet. I due sono stati visti discutere in Piazza qualche giorno fa durante l'organizzazione del Festival.
 4. Sir Raignald è ritenuto un capitano competente ma non brillante, qualcuno dubito che verrà a capo del caso.
@@ -192,12 +192,15 @@ Per accedere alla residenza i personaggi possono:
 1. Presentarsi come persone incaricate delle indagini della morte del Conestabile.
 2. Accedere di nascosto: facendo effrazione oppure accedendo da una finestra aperta
 3. Chiedere un lasciapassare a sir Raignald se ben disposto nei confronti del gruppo.
-   Si verrà ammessi alla presenza del Lagravio Remonnet, per cui sarà necessario tirare per la reazione. In caso di effrazione la reazione sarà automaticamente ostile.
-   È possibile colloquiare con il Lagravio oppure interrogarlo con la forza. Nel secondo caso chiaramente gli schiamazzi richiameranno le sue guardie personali.
-   Quale che sia la modalità utilizzata si possono carpire queste informazioni:
-4. Il Lagravio e la vittima si sono incontrati la notte dell'omicidio nel Tempio, ma Remonnet sostiene la sua innocenza. È stato Auguinare a richiedere l'incontro, per un ***sospetto traffico d'armi che coinvolgeva***, a suo dire, Lord Armand.
-5. Remonnet conferma che non ci fosse amore tra i due, ma che comunque stimasse l'operato del conestabile. Pare che fosse ricambiato, visto che si è rivolto a lui per parlare dei sospetti di congiura.
-6. Se gli si pone ***il pugnale*** davanti, negherà di esserne il proprietario ma di conoscere la ***bottega dove è stato fabbricato***.
+   
+Si verrà ammessi alla presenza del Lagravio Remonnet, per cui sarà necessario tirare per la reazione. In caso di effrazione la reazione sarà automaticamente ostile.
+
+È possibile colloquiare con il Lagravio oppure interrogarlo con la forza. Nel secondo caso chiaramente gli schiamazzi richiameranno le sue guardie personali.
+
+Quale che sia la modalità utilizzata si possono carpire queste informazioni:
+1. Il Lagravio e la vittima si sono incontrati la notte dell'omicidio nel Tempio, ma Remonnet sostiene la sua innocenza. È stato Auguinare a richiedere l'incontro, per un ***sospetto traffico d'armi che coinvolgeva***, a suo dire, Lord Armand.
+2. Remonnet conferma che non ci fosse amore tra i due, ma che comunque stimasse l'operato del conestabile. Pare che fosse ricambiato, visto che si è rivolto a lui per parlare dei sospetti di congiura.
+3. Se gli si pone ***il pugnale*** davanti, negherà di esserne il proprietario ma di conoscere la ***bottega dove è stato fabbricato***.
 
 Se Remonnet è il colpevole è possibile strappargli la confessione con la forza.
 
