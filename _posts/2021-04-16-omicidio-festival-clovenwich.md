@@ -80,7 +80,7 @@ e) Palazzo Remomnet
 
 # Motivatori e coinvolgimento
 
-Di seguito alcuni suggerimenti per coinvolgere il gruppo nelle indagini. Possono essere scelte casualmente o anche accumulate tra loro. L'arbitro è libero di espandere la lista.
+Di seguito alcuni suggerimenti per coinvolgere il gruppo nelle indagini. Possono essere scelte casualmente o anche accumulate tra loro. L'Arbitro è libero di espandere la lista.
 
 1. Un membro del vostro gruppo (PNG o PG assente alla sessione) si è staccato dal gruppo ed era l'unica persona apparentemente presente nel Tempio. Viene accusato dall'omicidio e dovete scagionarlo.
 2. La gendarmeria offre un goloso compenso a chiunque potrà dare informazioni concrete riguardo al caso.
@@ -217,29 +217,29 @@ I personaggi hanno alcuni modi per accedere a corte in ogni caso:
 
 # Esplorare le fognature
 
-Le fognature sono un intricato sistema sotterraneo non mappato, accessibile da tombini e grate sparsi per le vie del centro città. È molto facile perdersi là sotto. Il gruppo scoprirà mano a mano che esplora il sotterraneo cosa incontrerà. L'arbitro genera casualmente ciascun ambiente numerandolo:
+Le fognature sono un intricato sistema sotterraneo non mappato, accessibile da tombini e grate sparsi per le vie del centro città. È molto facile perdersi là sotto. Il gruppo scoprirà mano a mano che esplora il sotterraneo cosa incontrerà. L'Arbitro genera casualmente ciascun ambiente numerandolo:
 
 - **1d4**: Numero di uscite nell'ambiente.
 - **1d6**: tirando 5 si trova traccia di una creatura che vaga per le fogne (alligatore per una sfida normale, un mostro di livello medio per una sfida più impegnativa). Tirando 6 la creatura è già nell'ambiente e va combattuta o evitata.
 - **1d12**: valore al quadrato dei tesori contenuti nella stanza. Con 12 dentro la stanza, da qualche parte, vi è un oggetto magico.
-- **1d20**: Quando i PG passano da un ambiente all'altro attraverso un'uscita viene tirato il dado. Il tiro corrisponde al numero della stanza di destinazione. Se la stanza è già stata esplorata l'arbitro terrà traccia della connessione tra i due ambienti (tracciando una linea su uno schema), altrimenti disegna il nuovo ambiente. Tirando 1 o 20 l'uscita conduce fuori dalle fogne dentro al castello.
+- **1d20**: Quando i PG passano da un ambiente all'altro attraverso un'uscita viene tirato il dado. Il tiro corrisponde al numero della stanza di destinazione. Se la stanza è già stata esplorata l'Arbitro terrà traccia della connessione tra i due ambienti (tracciando una linea su uno schema), altrimenti disegna il nuovo ambiente. Tirando 1 o 20 l'uscita conduce fuori dalle fogne dentro al castello.
 
 # Conclusione: a corte
 
-I personaggi una volta riusciti a entrare a corte si confronteranno con il colpevole e ne denunceranno il misfatto portando le prove raccolte.
-Se sono entrati con un lasciapassare possono chiedere di essere ammessi alla presenza del Ciambellano Gualterius (reazione Positiva) per presentargli le prove raccolte.
-Se il gruppo è entrato corrompendo le guardie o dalle fognature c'è il rischio (1-su-6) di venire scoperti e portati dal capitano delle guardie di palazzo per l'accusa di violazione.
+Il gruppo, una volta riuscito a entrare a corte, si confronterà con il colpevole e ne denuncerà il misfatto portando le prove raccolte.
+Se il gruppo è entrato con un lasciapassare può chiedere di essere ammesso alla presenza del Ciambellano Gualterius (reazione Positiva) per presentargli le prove raccolte.
+Se, invece, il gruppo è entrato corrompendo le guardie o dalle fognature c'è il rischio (1-su-6) di essere scoperti e portati dal capitano delle guardie di palazzo per l'accusa di violazione.
 Altrimenti il gruppo può tentare di avvicinare il ciambellano ma dovrà tirare per la reazione.
 L'esito non è scontato e dipende dalle indagini svolte, ovvero dal numero di indizi e confessioni raccolti a supporto dell'accusa.
 
 | Evento/Indizio                                                                  | Punteggio |
 |:------------------------------------------------------------------------------- |:---------:|
-| Visti dalle guardie uscendo dalle fogne                                         | -2        |
-| Visti corrompere le guardie                                                     | -2        |
+| Il gruppo avvistato dalle guardie uscendo dalle fogne                           | -2        |
+| Il gruppo viene visto mentre corrompe le guardie                                | -2        |
 | Reazione Ostile di Sir Reignald/Lady Auguinare/Lagravio Remonnet                | -1        |
 | Reazione Positiva o Entusiasta di Sir Reignald/Lady Auguinare/Lagravio Remonnet | 1         |
-| Rinvenimento del pugnale                                                        | 2         |
-| Rinvenimento del diario di Auguinare                                            | 2         |
+| Ritrovamento del pugnale                                                        | 2         |
+| Ritrovamento del diario di Auguinare                                            | 2         |
 | Prove della congiura e del traffico di armi                                     | 3         |
 | Confessione del colpevole                                                       | 4         |
 
@@ -251,7 +251,7 @@ L'esito non è scontato e dipende dalle indagini svolte, ovvero dal numero di in
 | 7 - 8     | Il gruppo viene creduto e ricompensato modestamente                |
 | 9 +       | Il gruppo viene creduto e ricompensato lautamente                  |
 
-Se la congiura e il traffico di armi e l'omicidio del conestabile sono legati tra loro è a scelta dell'arbitro e degli eventuali tiri effettuati per definire mandante e movente, ma dovrebbe essere deciso prima dell'inizio della sessione.
+Se la congiura e il traffico di armi e l'omicidio del conestabile sono legati tra loro è a scelta dell'Arbitro e degli eventuali tiri effettuati per definire mandante e movente, ma dovrebbe essere deciso prima dell'inizio della sessione.
 
 # Attribuzioni
 
