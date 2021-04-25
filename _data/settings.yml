@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'adasperaludens'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'G-4M6BX297FY'
+google-ID: 'G-K7HZWVR5FP'
 
 menu:
 - {name: 'Chi sono', path: 'menu', url: 'about.html'}
