@@ -14,7 +14,7 @@ Il tema del quarto mese del [Vecchio Carnevale Blogghereccio](https://oicn.icu/2
 
 ![Il logo del Vecchio Carnevale Blogghereccio](https://i.imgur.com/yF1KpYD.jpg)
 
-Confesso che di primo acchito non avevo per alcuna ispirazione per questo tema, fino a che non sono incappato per vie traverse al [fantastico repository](http://www.miskasmaps.com/public-domain-maps/) in "pubblico dominio" (in realtà in CC BY) di Miska Fredman. Una mappa in particolare ha stimolato la mia fantasia ed è quella che vedrete qui sotto.  
+Confesso che di primo acchito non avevo per alcuna ispirazione per questo tema, fino a che non sono incappato per vie traverse nel [fantastico repository](http://www.miskasmaps.com/public-domain-maps/) in "pubblico dominio" (in realtà in CC BY) di Miska Fredman. Una mappa in particolare ha stimolato la mia fantasia ed è quella che vedrete qui sotto.  
 Si tratta di un'avventura per O/AD&D e cloni, ma facilmente adattabile per tutti i sistemi OSR D&D-derivati.  
 Lasciatemi un feedback nei commenti, sono davvero necessari per migliorarsi!  
 
