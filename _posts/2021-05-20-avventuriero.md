@@ -30,7 +30,7 @@ L'Avventuriero è uno scafato uomo (o donna) di mondo o in disperato in cerca di
 
 ![Scotch Soldiers, Lancelot Speed, 1896](https://www.oldbookillustrations.com/wp-content/high-res/1896/scotch-soldiers-1600.jpg)
 
-## Tabella 5: Avanzamento dell'Avventuriero
+## Avanzamento dell'Avventuriero
 
 | Livello | Punti Esperienza | Dado Vita | Dado Magia | Per Colpire | Tiro Salvezza | Furto |
 | ------- | ---------------- | --------- | ---------- | ----------- | ------------- | ----- |
