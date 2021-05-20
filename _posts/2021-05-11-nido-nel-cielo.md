@@ -16,11 +16,11 @@ Il tema del quarto mese del [Vecchio Carnevale Blogghereccio](https://oicn.icu/2
 
 Confesso che di primo acchito non avevo per alcuna ispirazione per questo tema, fino a che non sono incappato per vie traverse nel [fantastico repository](http://www.miskasmaps.com/public-domain-maps/) in "pubblico dominio" (in realtà in CC BY) di Miska Fredman. Una mappa in particolare ha stimolato la mia fantasia ed è quella che vedrete qui sotto.  
 Si tratta di un'avventura per O/AD&D e cloni, ma facilmente adattabile per tutti i sistemi OSR D&D-derivati.  
-Lasciatemi un feedback nei commenti, sono davvero necessari per migliorarsi!  
+Qualsiasi feedback sarà ben accetto!
 
 # Il nido nel cielo
 
-Questa avventura è scritta per regolamenti compatibili con la 0e/1e come White Box, Swords & Wizardry e OSRIC. I kenku utilizzati sono quelli del Fiend Folio, ma possono essere sostituiti con mostri affini.
+Questa avventura è scritta per regolamenti compatibili con la 0e/1e come White Box, Swords & Wizardry e OSRIC. I kenku utilizzati sono quelli del Fiend Folio, ma possono essere sostituiti con mostri affini. È progettato per avventurieri di livello 4-6.
 
 ## Premessa
 Un gruppo di pirati kenku ha rapito la figlia di Lord Reinold richiedendo un riscatto esorbitante per liberarla. Reinold non è disposto a pagare una somma del genere e non dispone di armigeri addestrati in questo tipo di missione, ma è disposto a offrire una lauta ricompensa al gruppo di avventurieri che volesse accettarla.  
