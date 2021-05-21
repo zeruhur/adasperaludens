@@ -26,7 +26,7 @@ Io però non riesco a non dire la mia (non richiesta e inutile) a riguardo, quin
 
 # L'Avventuriero
 
-L'Avventuriero è uno scafato uomo (o donna) di mondo o in disperato in cerca di fortuna. Non eccelle particolarmente in nessuna disciplina, ma è in grado di cavarsela in situazioni più rischiose della norma. È in grado di muoversi con destrezza, è un combattente competente ed è in grado di attingere al potere magico, anche se limitatamente alla sua riserva di energia personale.
+L'Avventuriero è uno scafato uomo (o donna) di mondo o un disperato in cerca di fortuna. Non eccelle particolarmente in nessuna disciplina, ma è in grado di cavarsela in situazioni più rischiose della norma. È in grado di muoversi con destrezza, è un combattente competente ed è in grado di attingere al potere magico, anche se limitatamente alla sua riserva di energia personale.
 
 ![Scotch Soldiers, Lancelot Speed, 1896](https://www.oldbookillustrations.com/wp-content/high-res/1896/scotch-soldiers-1600.jpg)
 
@@ -59,7 +59,7 @@ La Destrezza è l'Attributo Primario degli Avventurieri, il che significa che un
 L'abilità di furto può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare, rimanere silenziosi e nascosti mentre ci si muove. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Furto, l'Avventuriero ha successo nel suo tentativo. I personaggi non sono spesso consapevoli di quando i loro tentativi di rimanere furtivi falliscono, e l'avventuriero crede sempre di aver avuto successo.
 
 ### Lancio degli Incantesimi
-Ciascun Avventuriero potrà convogliare l'energia magica per l'esecuzione degli incantesimi di sua conoscenza (si applicano le regole magiche alternative, vedi sotto). Un Avventuriero di Livello 1 conoscerà 1 incantesimo (tirato casualmente dalla lista degli incantesimi). Altri incantesimi possono essere acquisiti studiando o rinvendone il testo. Lanciando incantesimi l'Avventuriero consumerà un ammontare di Punti Magia pari al livello dell'incantesimo. È possibile lanciare lo stesso incantesimo più volte, fintanto che saranno disponibili punti magia.  
+Ciascun Avventuriero potrà convogliare l'energia magica per l'esecuzione degli incantesimi di sua conoscenza (si applicano le regole magiche alternative, vedi sotto). Un Avventuriero di Livello 1 conoscerà 1 incantesimo (tirato casualmente dalla lista degli incantesimi). Altri incantesimi possono essere acquisiti studiando o rivedendone il testo. Lanciando incantesimi l'Avventuriero consumerà un ammontare di Punti Magia pari al livello dell'incantesimo. È possibile lanciare lo stesso incantesimo più volte, fintanto che saranno disponibili punti magia.  
 N.B. Usando la classe Avventuriero, Scacciare i Non-Morti è considerato un incantesimo di livello 1, applicando le regole di uso del manuale.
 
 ### Fondare una Gilda
@@ -68,5 +68,5 @@ Al decimo livello si ottiene il titolo di "". Un Avventuriero può scegliere di 
 
 # Magia (regole alternative)
 
-La magia permea ogni cosa e un Avventuriero può attingere a questa energia primigenea se ha la conoscenza per farlo. La conoscenza è tramandata sotto forma di incantesimi. Ciascun Avventuriero ha un'affinità più o meno forte con la magia. I Punti Magia (PM) rappresentano la quantità di magia che un personaggio può convogliare prima di esaurirsi: sono determinati dal numero di Dadi Magia (DM) che il personaggio ha ad ogni livello, come determinato nella Tabella di Avanzamento. Per determinare il totale di PM, un giocatore tirerà, per un Avventuriero di livello 1, 1 DM (1d4). Quando il personaggio accumula abbastanza PE per guadagnare un livello, verrà tirato un nuovo Dado Magia e aggiunto al totale (a volte un nuovo livello, però, fornisce solo un punto ferita aggiuntivo e non un dado intero).  
+La magia permea ogni cosa e un Avventuriero può attingere a questa energia primigenea se ha la conoscenza per farlo. La conoscenza è tramandata sotto forma di incantesimi. Ciascun Avventuriero ha un'affinità più o meno forte con la magia. I Punti Magia (PM) rappresentano la quantità di magia che un personaggio può convogliare prima di esaurirsi: sono determinati dal numero di Dadi Magia (DM) che il personaggio ha ad ogni livello, come determinato nella Tabella di Avanzamento. Per determinare il totale di PM, un giocatore tirerà, per un Avventuriero di livello 1, 1 DM (1d4). Quando il personaggio accumula abbastanza PE per guadagnare un livello, verrà tirato un nuovo Dado Magia e aggiunto al totale (a volte un nuovo livello, però, fornisce solo un punto magia aggiuntivo e non un dado intero).  
 Un personaggio recupererà 1 MP per ciascun giorno ininterrotto di riposo, mentre quattro settimane di riposo ripristineranno totalmente i PM a prescindere da quanti ne sono stati consumati.
