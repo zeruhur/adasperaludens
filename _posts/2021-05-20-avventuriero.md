@@ -24,6 +24,8 @@ Io però non riesco a non dire la mia (non richiesta e inutile) a riguardo, quin
 - Magia: si assume che la magia sia comune e alla portata di tutti. Stralcio il sistema vanciano perché non mi piace molto. Delineo meglio questo aspetto sotto.
 - Abilità: White Box introduce una bellissima abilità unica "Furto" che copre tutto il range della classiche abilità del ladro. Sono della scuola di pensiero che l'introduzione del Ladro in qualche modo "rompa" il gioco delle altre classi. In ottica OSR preferisco che qualunque personaggio possa tentare tutto, specialmente le azioni più comuni che vengono assegnate all'abilità del ladro (scalare muri, ascoltare, disinnescare trappole...). Io sarei per rimuovere completamente l'abilità, ma nel caso vogliate mantenerla per le azioni più "ladresche" (nascondersi nell'ombra, muoversi silenziosamente, borseggio etc), inserisco comunque la colonna di riferimento.
 
+**UPDATE 21/05/2021**: Pieralberto mi ha suggerito di rinominare l'abilità furto e abbassarne la progressione. A me sembra una buona idea, quindi ho deciso di implementarla.
+
 # L'Avventuriero
 
 L'Avventuriero è uno scafato uomo (o donna) di mondo o un disperato in cerca di fortuna. Non eccelle particolarmente in nessuna disciplina, ma è in grado di cavarsela in situazioni più rischiose della norma. È in grado di muoversi con destrezza, è un combattente competente ed è in grado di attingere al potere magico, anche se limitatamente alla sua riserva di energia personale.
@@ -32,18 +34,18 @@ L'Avventuriero è uno scafato uomo (o donna) di mondo o un disperato in cerca di
 
 ## Avanzamento dell'Avventuriero
 
-| Livello | Punti Esperienza | Dado Vita | Dado Magia | Per Colpire | Tiro Salvezza | Furto |
-| ------- | ---------------- | --------- | ---------- | ----------- | ------------- | ----- |
-| 1       | 0                | 1         | 1          | +0          | 15            | 2     |
-| 2       | 2,000            | 2         | 1+1        | +0          | 14            | 2     |
-| 3       | 4,000            | 3         | 2          | +0          | 13            | 2     |
-| 4       | 8,000            | 3+1       | 2+1        | +1          | 12            | 3     |
-| 5       | 16,000           | 4         | 3          | +1          | 11            | 3     |
-| 6       | 32,000           | 5         | 3+1        | +2          | 10            | 3     |
-| 7       | 64,000           | 6         | 4          | +2          | 9             | 4     |
-| 8       | 128,000          | 6+1       | 4+1        | +3          | 8             | 4     |
-| 9       | 256,000          | 7         | 5          | +4          | 7             | 4     |
-| 10      | 512,000          | 8         | 5+1        | +5          | 6             | 5     |
+| Livello | Punti Esperienza | Dado Vita | Dado Magia | Per Colpire | Tiro Salvezza | Audacia |
+| ------- | ---------------- | --------- | ---------- | ----------- | ------------- | ------- |
+| 1       | 0                | 1         | 1          | +0          | 15            | 1       |
+| 2       | 2,000            | 2         | 1+1        | +0          | 14            | 1       |
+| 3       | 4,000            | 3         | 2          | +0          | 13            | 2       |
+| 4       | 8,000            | 3+1       | 2+1        | +1          | 12            | 2       |
+| 5       | 16,000           | 4         | 3          | +1          | 11            | 3       |
+| 6       | 32,000           | 5         | 3+1        | +2          | 10            | 3       |
+| 7       | 64,000           | 6         | 4          | +2          | 9             | 4       |
+| 8       | 128,000          | 6+1       | 4+1        | +3          | 8             | 4       |
+| 9       | 256,000          | 7         | 5          | +4          | 7             | 5       |
+| 10      | 512,000          | 8         | 5+1        | +5          | 6             | 5       |
 
 ## Abilità dell'Avventuriero
 
@@ -54,9 +56,9 @@ Gli Avventurieri non hanno restrizioni sul tipo di armi o armature che possono u
 ### Bonus di Esperienza
 
 La Destrezza è l'Attributo Primario degli Avventurieri, il che significa che un punteggio di Destrezza di 15+ garantisce loro un ulteriore 5% a tutti i punti esperienza assegnati.
-### Furto
+### Audacia
 
-L'abilità di furto può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare, rimanere silenziosi e nascosti mentre ci si muove. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Furto, l'Avventuriero ha successo nel suo tentativo. I personaggi non sono spesso consapevoli di quando i loro tentativi di rimanere furtivi falliscono, e l'avventuriero crede sempre di aver avuto successo.
+L'audacia può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare, rimanere silenziosi e nascosti mentre ci si muove. Se il risultato del tiro è uguale o inferiore al suo punteggio di Audacia, l'Avventuriero ha successo nel suo tentativo. L'avventuriero crede sempre di aver avuto successo.
 
 ### Lancio degli Incantesimi
 Ciascun Avventuriero potrà convogliare l'energia magica per l'esecuzione degli incantesimi di sua conoscenza (si applicano le regole magiche alternative, vedi sotto). Un Avventuriero di Livello 1 conoscerà 1 incantesimo (tirato casualmente dalla lista degli incantesimi). Altri incantesimi possono essere acquisiti studiando o rivedendone il testo. Lanciando incantesimi l'Avventuriero consumerà un ammontare di Punti Magia pari al livello dell'incantesimo. È possibile lanciare lo stesso incantesimo più volte, fintanto che saranno disponibili punti magia.  
