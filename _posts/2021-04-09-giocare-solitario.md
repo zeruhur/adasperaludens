@@ -182,7 +182,7 @@ I più noti e riusciti sono:
 ## Generatori procedurali:
 
 - [Hexmancer](https://www.martinralya.com/wp-content/uploads/2016/02/Hexmancer-v.1.pdf): un generatore procedurale per hexcrawl. Semplice, veloce, bello.
-- [Hexcrawl Procedures](https://www.basicfantasy.org/forums/viewtopic.php?f=19&t=3987#p74179): un supplemento di Basic Fantasy Role-Playing Game che vi permette di impostare una campagna solitaria hexcrawl completa.
+- [Hexcrawl Procedures Supplement](https://www.basicfantasy.org/forums/viewtopic.php?f=19&t=4183#p74179): un supplemento di Basic Fantasy Role-Playing Game che vi permette di impostare una campagna solitaria hexcrawl completa.
 - [OSRIC (Capitolo IV)](https://osricwiki.presgas.name/doku.php?id=osric:chapter4&s%5B%5D=solo#random_dungeon_generation): se non avete soldi da spendere nella DMG, questa il migliore clone dell'Appendice A. Questo specifico capitolo di OSRIC non è sotto OGL, ma come tutto il resto del regolamento è gratuito.
 
 ## Tool digitali
