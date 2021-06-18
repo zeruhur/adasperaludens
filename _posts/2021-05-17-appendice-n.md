@@ -4,7 +4,7 @@ title:  "L'Avventuriero classe unica per White Box"
 author: "zeruhur"
 comments: true
 tags: [osr, od&d]
-categories: regolamenti
+categories: interviste
 image:
 ---
 
