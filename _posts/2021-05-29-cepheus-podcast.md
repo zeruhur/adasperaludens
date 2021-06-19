@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Retrospettiva su Traveller e Cepheus Engine"
+title:  "Cepheus Italia Podcast"
 author: "zeruhur"
 comments: true
 tags: [traveller, cepheus engine]
