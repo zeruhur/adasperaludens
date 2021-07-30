@@ -67,7 +67,7 @@ N.B. Usando la classe Avventuriero, Scacciare i Non-Morti è considerato un inca
 
 ### Fondare una Gilda
 
-Al decimo livello si ottiene il titolo di "". Un Avventuriero può scegliere di stabilire una Gilda. Egli attirerà l'attenzione e il servizio di altri avventurieri di livello inferiore che sperano di imparare da un maestro. È conosciuto come un Maestro di Gilda, e quelli che arrivano sono membri della sua Gilda di Avventurieri. In cambio di una parte dei loro guadagni, il Maestro fornirà a questi apprendisti protezione e addestramento.
+Al decimo livello si ottiene il titolo di "Maestro". Un Avventuriero può scegliere di stabilire una Gilda. Egli attirerà l'attenzione e il servizio di altri avventurieri di livello inferiore che sperano di imparare da un maestro. È conosciuto come un Maestro di Gilda, e quelli che arrivano sono membri della sua Gilda di Avventurieri. In cambio di una parte dei loro guadagni, il Maestro fornirà a questi apprendisti protezione e addestramento.
 
 # Magia (regole alternative)
 
