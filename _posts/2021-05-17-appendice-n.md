@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'Avventuriero classe unica per White Box"
+title:  "Appendice N e le origini letterarie di D&D"
 author: "zeruhur"
 comments: true
 tags: [osr, od&d]
