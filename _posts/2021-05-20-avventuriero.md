@@ -58,7 +58,7 @@ Gli Avventurieri non hanno restrizioni sul tipo di armi o armature che possono u
 La Destrezza è l'Attributo Primario degli Avventurieri, il che significa che un punteggio di Destrezza di 15+ garantisce loro un ulteriore 5% a tutti i punti esperienza assegnati.
 ### Audacia
 
-Gli avventurieri sono persone con un'esperienza del mondo maggiore della maggior parte delle persone, per questo sono più forti, astute, veloci e agili della norma. Queste caratteristiche sono rappresentate dall'Audacia che può essere utilizzata per qualsiasi azione che richieda uno sforzo superiore al normale, in situazioni che richiedano scaltrezza, agilità o furtività.
+Gli avventurieri hanno un'esperienza del mondo maggiore della maggior parte delle persone, per questo sono più forti, astute, veloci e agili della norma. Queste caratteristiche sono rappresentate dall'Audacia che può essere utilizzata per qualsiasi azione che richieda uno sforzo superiore al normale, in situazioni che richiedano scaltrezza, agilità o furtività.
 Se il risultato del tiro è uguale o inferiore al suo punteggio di Audacia, l'Avventuriero ha successo nel suo tentativo. L'avventuriero crede sempre di aver avuto successo.
 
 ### Lancio degli Incantesimi
