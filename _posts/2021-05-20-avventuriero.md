@@ -58,7 +58,8 @@ Gli Avventurieri non hanno restrizioni sul tipo di armi o armature che possono u
 La Destrezza è l'Attributo Primario degli Avventurieri, il che significa che un punteggio di Destrezza di 15+ garantisce loro un ulteriore 5% a tutti i punti esperienza assegnati.
 ### Audacia
 
-L'audacia può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare, rimanere silenziosi e nascosti mentre ci si muove. Se il risultato del tiro è uguale o inferiore al suo punteggio di Audacia, l'Avventuriero ha successo nel suo tentativo. L'avventuriero crede sempre di aver avuto successo.
+Gli avventurieri sono persone con un'esperienza del mondo maggiore della maggior parte delle persone, per questo sono più forti, astute, veloci e agili della norma. Queste caratteristiche sono rappresentate dall'Audacia che può essere utilizzata per qualsiasi azione che richieda uno sforzo superiore al normale, in situazioni che richiedano scaltrezza, agilità o furtività.
+Se il risultato del tiro è uguale o inferiore al suo punteggio di Audacia, l'Avventuriero ha successo nel suo tentativo. L'avventuriero crede sempre di aver avuto successo.
 
 ### Lancio degli Incantesimi
 Ciascun Avventuriero potrà convogliare l'energia magica per l'esecuzione degli incantesimi di sua conoscenza (si applicano le regole magiche alternative, vedi sotto). Un Avventuriero di Livello 1 conoscerà 1 incantesimo (tirato casualmente dalla lista degli incantesimi). Altri incantesimi possono essere acquisiti studiando o rivedendone il testo. Lanciando incantesimi l'Avventuriero consumerà un ammontare di Punti Magia pari al livello dell'incantesimo. È possibile lanciare lo stesso incantesimo più volte, fintanto che saranno disponibili punti magia.  
