@@ -10,7 +10,7 @@ image:
 
 Il mese di cui mi sono reso umilmente ospite a tema foreste è stato lento a carburare a causa degli impegni di tutti, ma ha chiuso con il botto!
 
-Ha aperto le danze The Kernel In Yellow, con una sequenza di tabelle causali per generare l'incontro con il [Cervo Bianco]https://oicn.icu/2021/il-dono-del-cervo/)
+Ha aperto le danze The Kernel In Yellow, con una sequenza di tabelle causali per generare l'incontro con il [Cervo Bianco](https://oicn.icu/2021/il-dono-del-cervo/)
 
 Prosegue Lorenzo Bertini con un ["dungeon all'aperto"](https://dietroschermo.wordpress.com/2021/06/17/la-foresta-e-rimasta-di-sasso-un-dungeon-in-esterni/), qualcosa a metà tra un dungeoncrawl e un hexcrawl, completo ovviamente di mappa e incontri.
 
