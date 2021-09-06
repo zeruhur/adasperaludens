@@ -1,2 +1,0 @@
-# blog
- zeruhur's blog
