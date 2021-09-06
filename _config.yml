@@ -8,7 +8,6 @@ url:         "https://zeruhur.space"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -20,9 +19,9 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   true
-show_post_footers:    true
+show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: true
