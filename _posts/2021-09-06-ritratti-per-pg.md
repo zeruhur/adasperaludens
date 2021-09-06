@@ -13,11 +13,11 @@ La prima è [artflow.ai](https://artflow.ai/), un generatore che, avvalendosi de
 
 Ecco qui Mads Mikkelsen in versione "starfleet science officer": 
 
-![](.\assets\img\photo_2021-09-05_17-26-27.jpg)
+![](\assets\img\photo_2021-09-05_17-26-27.jpg)
 
 Il secondo sito per me è stata una scoperta fondamentale dato che, delle molte applicazioni disponibili per convertire un'immagine in uno schizzo a matita, nessuno mi ha mai soddisfatto.  
 In coerenza con la campagna e con il mood di Classic Traveller, adoro le illustrazioni a china del manuale originale, con forte contrasto. [imagetosketch](https://imagetosketch.com/) offre tra i suoi output anche lo stile che cercavo. Qui la stessa immagine di Mikkelsen con il filtro desiderato:
 
-![](.\assets\img\6F2oiBud_b.jpg)
+![](\assets\img\6F2oiBud_b.jpg)
 
 Divertitevi!
