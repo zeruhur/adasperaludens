@@ -22,7 +22,7 @@ Simone Normanni ci propone un'altra dotta dissertazione e questa volta (allargan
 
 Fabio Milito Pagliara ci presenta un interessantissimo approccio alle foreste: [tabelle di affinità](https://d20d12.blogspot.com/2021/06/foresta-fosti-foresta.html) tra foresta ed esploratore che garantiscono vantaggi e hanno conseguenze sugli incontri.
 
-Barakiel The Archangel si prende una pausa dalle sue monumentali avventure e ci presenta una tabella di [1d20 incontri nella foresta] (https://archangelruling.blogfree.net/?t=6289323).
+Barakiel The Archangel si prende una pausa dalle sue monumentali avventure e ci presenta una tabella di [1d20 incontri nella foresta](https://archangelruling.blogfree.net/?t=6289323).
 
 Alessio Persichetti ci presenta [tre esagoni](https://deeperintothedungeon.wordpress.com/2021/06/29/vecchio-carnevale-bloghereccio-rovine-esagonali-nelle-foreste/) da poter piazzare dove meglio riteniamo opportuno nelle nostre mappe, con tanto di mappe disegnate e colorate a mano e parecchio originali, completi di luoghi e incontri. Il mio preferito è il bacino in rovina!
 
