@@ -24,7 +24,7 @@ Io però non riesco a non dire la mia (non richiesta e inutile) a riguardo, quin
 - Magia: si assume che la magia sia comune e alla portata di tutti. Stralcio il sistema vanciano perché non mi piace molto. Delineo meglio questo aspetto sotto.
 - Abilità: White Box introduce una bellissima abilità unica "Furto" che copre tutto il range della classiche abilità del ladro. Sono della scuola di pensiero che l'introduzione del Ladro in qualche modo "rompa" il gioco delle altre classi. In ottica OSR preferisco che qualunque personaggio possa tentare tutto, specialmente le azioni più comuni che vengono assegnate all'abilità del ladro (scalare muri, ascoltare, disinnescare trappole...). Io sarei per rimuovere completamente l'abilità, ma nel caso vogliate mantenerla per le azioni più "ladresche" (nascondersi nell'ombra, muoversi silenziosamente, borseggio etc), inserisco comunque la colonna di riferimento.
 
-**UPDATE 21/05/2021**: Pieralberto mi ha suggerito di rinominare l'abilità furto e abbassarne la progressione. A me sembra una buona idea, quindi ho deciso di implementarla.
+**UPDATE 21/05/2021**: Pieralberto Cavallo mi ha suggerito di rinominare l'abilità furto e abbassarne la progressione. A me sembra una buona idea, quindi ho deciso di implementarla.
 
 # L'Avventuriero
 
