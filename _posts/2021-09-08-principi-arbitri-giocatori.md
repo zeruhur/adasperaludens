@@ -134,4 +134,5 @@ La pianificazione è una parte fondamentale dell'OSR. Ti infileresti in un sotte
 > * Mantieni le situazioni sempre in movimento e gioca per vedere cosa succede.
 
 L'ambizione è quello che muove un personaggio OSR. Esplorare dungeon e terre selvagge è **pericoloso**, potenzialmente letale. Chi vi si avventura vuole un ritorno, certamente economico (altrimenti si troverebbe un lavoro onesto), ma sul lungo periodo anche di prestigio.
+
 In termini di gioco: no pain, no gain. Se giochi un OSR, probabilmente non sei interessato a giocare uno slice of life sulle vite fantasy di un gruppo di villici (anche se, ammetto, sarei intrigato dall'idea in un altro contesto). E per mantenere vivo l'interesse, si da per assunto che i personaggi siano disposti a correre dei rischi, tali che una persona sensata normalmente non affronterebbe. È questo che mantiene in moto gli eventi. Per il resto si tratta di seguire gli eventi che di dipanano per azione e reazione dell'interazione tra personaggi e mondo di gioco.
