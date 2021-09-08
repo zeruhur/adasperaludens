@@ -4,7 +4,7 @@ title:  "Jam interessanti a cui partecipare su itch.io"
 author: "zeruhur"
 comments: true
 tags: [itch.io, contest]
-categories: 'on the web'
+categories: guide
 image:
 ---
 
