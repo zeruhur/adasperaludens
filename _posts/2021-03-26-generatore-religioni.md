@@ -4,7 +4,7 @@ title:  "Generatore Casuale di Religioni, per coloro che (non) credono"
 author: "zeruhur"
 comments: true
 tags: [generatori, osr, vecchio carnevale blogghereccio]
-categories: materiale
+categories: materiali
 image:
 ---
 Questo post partecipa al [Vecchio Carnevale Blogghereccio](https://oicn.icu/2021/Vecchio-Carnevale-Blogghereccio/), il tema di questo mese è la [religione](https://dismastersden.blogspot.com/2021/03/vecchio-carnevale-blogghereccio-la.html), ospitato dal sempiterno Dismaster FraNe.  
