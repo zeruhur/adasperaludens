@@ -4,7 +4,7 @@ title:  "Idee per allineamenti alternativi"
 author: "zeruhur"
 comments: true
 tags: [roamers of the dream, tabelle, allineamento]
-categories: 'produzione propria'
+categories: materiali
 image: enneagram.jpg
 ---
 
