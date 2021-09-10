@@ -3,65 +3,32 @@ title:       Syrinx
 email:       
 author:      zeruhur
 description: "OSR e dintorni"
-baseurl:     "/syrinx"
+baseurl:     "syrinx"
 url:         "https://zeruhur.space"
-date_format: "%b %-d, %Y"
+date_format: "%d/%m/%Y"
 header_pages:
  - about.md
+# - contact.html
 
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
 google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
 
 # Optional features
 animated:             true
 show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    true
-ajaxify_contact_form: false
-enable_mathjax: true
-extended_fonts: false
-enable_anchorjs: false
+
 # Preview image for social media aka og:image and twitter:image
 post_preview_image: false
 
-# Facebook Page integration
-# (for instant articles and other stuff)
-fb_page: false
-fb_page_id:
-
 # Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: "adasperaludens"
-
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
+disqus_shortname: adasperaludens
 
 # Social icons
 github_username: zeruhur
-reddit_username: zeruhur_
-bitbucket_username:
-stackoverflow_id:
 twitter_username: zeruhur
-skype_username:
-steam_nickname:
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id: zeruhur
-bitcoin_url:
-paypal_url:
-flattr_button:
-telegram_username: zeruhur
-vk_id:
+linkedin_username: 
+dev_username: 
 
 # Post sharing icons
 show_sharing_icons: true
@@ -81,7 +48,7 @@ text:
     newer: 'Nuovi'
     older: 'Vecchi'
   share_buttons:
-    text:         'Condividi questo articolo!'
+    text:         'Condividi:'
     facebook:     'Condividi su Facebook'
     twitter:      'Condividi su Twitter'
     googleplus:   'Condividi su Google+'
@@ -94,38 +61,27 @@ text:
   post:
     updated:        'Aggiornato'
     minute_read:    'minuti di lettura'
-    related_posts:  'Post Correlati'
+    related_posts:  'Post correlati'
+    post_footer:    'Lorem ipsum'
   index:
     coming_soon: 'Coming soon...'
-  contact:
-    email:    'Indirizzo Email'
-    content:  'Cosa vorresti dire?'
-    subject:  'Soggetto!'
-    submit:   'Saluta'
-    ajax:
-      sending:  'invio in corso...'
-      sent:     'Messaggio inviato!'
-      error:    'Errore!'
-  thanks: 'Grazie per avermi contattato. Ti risponderò il primo possibile.'
   og_locale: 'it'
 
 # Build settings
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
+permalink:    :title
+paginate:     5
 sass:
   style: compressed
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
   - README.md
-  - screenshot.png
   - vendor
-  
