@@ -9,7 +9,6 @@ date_format: "%d/%m/%Y"
 header_pages:
  - about.md
  - contact.html
-permalink: /:categories/:year/:month/:day/:title:output_ext
 
 google_analytics:
 
@@ -72,7 +71,7 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    :title
+permalink: /:categories/:year/:month/:day/:title:output_ext
 paginate:     5
 sass:
   style: compressed
