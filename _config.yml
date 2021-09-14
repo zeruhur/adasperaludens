@@ -3,7 +3,7 @@ title:       Syrinx
 email:       robertobisceglie@gmail.com
 author:      zeruhur
 description: "OSR e dintorni"
-baseurl:     "syrinx"
+baseurl:     "/syrinx"
 url:         "https://zeruhur.space"
 date_format: "%d/%m/%Y"
 header_pages:
