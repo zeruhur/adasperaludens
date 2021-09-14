@@ -7,7 +7,6 @@ baseurl:     "syrinx"
 url:         "https://zeruhur.space"
 date_format: "%d/%m/%Y"
 header_pages:
- - sito-principale.md
  - about.md
  - contact.html
 
