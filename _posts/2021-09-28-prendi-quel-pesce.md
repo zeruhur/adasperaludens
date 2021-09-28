@@ -17,29 +17,29 @@ Ma non è che dobbiate per forza usare questo scempio...
 
 ## Pescosità - Tira 2d6
 
-2-3: acque morte -> non provarci nemmeno, passa al prossimo stagno
-4-5: povero -> MD -2
-6-8: normale -> MD 0
-9-10: abbondante -> MD 1
+2-3: acque morte -> non provarci nemmeno, passa al prossimo stagno  
+4-5: povero -> MD -2  
+6-8: normale -> MD 0  
+9-10: abbondante -> MD 1  
 11-12: ricco -> MD 2
 
 ## Strumenti - Tira 1d6
 
-1-2: mani -> MD -1
-3-4: rete da pesca -> MD 0
+1-2: mani -> MD -1  
+3-4: rete da pesca -> MD 0  
 5-6: canna da pesca -> MD +1
 
 ## Efficacia dell'esca - Tira 1d6
 
-1-2: cattiva -> MD -2
+1-2: cattiva -> MD -2  
 3-6: buona -> MD 0
 
 ## Dimensione e forza del pesce - Tira 2d6
 
-2-3: Piccolo -> NO 7
-4-5: Piccolo -> NO 9
-6-8: Medio -> NO 11
-9-10: Grande -> NO 13
+2-3: Piccolo -> NO 7  
+4-5: Piccolo -> NO 9  
+6-8: Medio -> NO 11  
+9-10: Grande -> NO 13  
 11-12 Enorme -> NO 15
 
 ## Come pescare
