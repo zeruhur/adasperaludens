@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Chi sono
 permalink: /about/
 tags: about
