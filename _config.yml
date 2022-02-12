@@ -8,7 +8,7 @@ plugins:
 
 ## MAIN ##
 title: "Syrinx" # title of blog or your name
-subtitle: "Creator of Writeas.Jekyll" # subtitle of blog or your position / minbio
+subtitle: "OSR e dintorni" # subtitle of blog or your position / minbio
 links:
   about: /about/
   contact: mailto:zeruhur.games@gmail.com
