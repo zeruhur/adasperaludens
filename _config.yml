@@ -10,7 +10,7 @@ plugins:
 title: "Syrinx" # title of blog or your name
 subtitle: "OSR e dintorni" # subtitle of blog or your position / minbio
 links:
-  chisono: /chisono/
+  chi sono: /chisono/
   contact: mailto:zeruhur.games@gmail.com
   rss: /feed.xml
 credit: true # show a footer "published with jekyll-theme-writeas" (only on posts)
