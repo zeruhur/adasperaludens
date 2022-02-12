@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chi sono
-permalink: /about/
+permalink: /chisono/
 tags: about
 ---
 
