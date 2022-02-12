@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defualt
 title: Chi sono
 permalink: /about/
 tags: about
