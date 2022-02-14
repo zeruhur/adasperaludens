@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Come gestire e pratico un gioco ultraleggero"
+title:  "Come gestire e praticare un gioco ultraleggero"
 author: "zeruhur"
 comments: true
 tags: [fkr, ultraleggero]
