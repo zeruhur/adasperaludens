@@ -71,5 +71,7 @@ Se state cercando esempi di questi giochi in forma più strutturata di una conve
 - [Revenant's Hack](https://revenant-quill.itch.io/revenants-hack) di Sigve Solvaag
 - [Skorne](https://dreamingdragonslayer.itch.io/skorne) di Dreaming Dragonslayer
 
+
+### Note
 [^1]: Serie TV inglese in cui un gruppo di scienziati apre un passaggio temporale verso l'era Cretacea, piena di azione e intrigo.
 [^2]: in originale *overloaded dice*, un concetto introdotto da [Necropraxis](https://www.necropraxis.com/2014/02/03/overloading-the-encounter-die/) che permette la gestione degli incontri minimizzando il book keeping.
