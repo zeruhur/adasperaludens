@@ -20,7 +20,7 @@ Ci sono tre blocchi di statistiche per i PNG, e questo è tutto. Punto.
 [3] = PNG di livello "boss": lich, maiali infernali, draghi, t-rex, armature da battaglia potenziate.
 
 [1] 3PF, 10 FOR/DES/VOL; arma (d6)  
-- Semplice peculiarità e debolezza evidente  
+- Semplice peculiarità e debolezza manifesta  
 - Comportamento, forza o elemento di disturbo  
 - Danno critico: di forte impatto e molto probabilmente bizzarro[^2]
 
