@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chi sono
-permalink: /chisono/
-tags: about
+permalink: /about/
 ---
 
 Roberto, classe 1984, nerd impenitente.
