@@ -48,12 +48,12 @@ Il grado di potenza [1] riprende semplicemente l'eccellente concetto di [3hp, Sp
 
 **Invito i lettori a fare questo stesso tipo di modello a tre livelli per altri giochi di ruolo popolari e a condividere i risultati per i posteri.**
 
-## Note
+## Note di traduzione
 
-[^1]: in originale *skellington*, il cognome originale di Jack Skeletron di Nightmare before Christmas. (NdT)
+[^1]: in originale *skellington*, il cognome originale di Jack Skeletron di Nightmare before Christmas.
 
-[^2]: in originale *weird* che non è perfettamente traducibile, ho optato per un bizzarro perdendo i riferimenti alla connotazione letteraria (weird è il genere di Lovecraft per intenderci). (NdT)
+[^2]: in originale *weird* che non è perfettamente traducibile, ho optato per un bizzarro perdendo i riferimenti alla connotazione letteraria (weird è il genere di Lovecraft per intenderci).
 
-[^3]: traduco così liberamente il termine *flavor*, che a seconda del contesto può significare tema, gusto, etc. (NdT)
+[^3]: traduco così liberamente il termine *flavor*, che a seconda del contesto può significare tema, gusto, etc.
 
-[^4]: in originale *actionable fiction*. (NdT)
+[^4]: in originale *actionable fiction*.
