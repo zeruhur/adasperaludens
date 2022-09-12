@@ -4,7 +4,7 @@ title:  "Come gestire e praticare un gioco ultraleggero"
 author: "zeruhur"
 comments: true
 tags: [fkr, ultraleggero]
-categories: fronzoli
+categories: guide
 image:
 ---
 
