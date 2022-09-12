@@ -4,7 +4,7 @@ layout: post
 title:  "GDR Solo: giocare in solitaria"
 author: "zeruhur"
 comments: true
-tags: [solo, mythic, scarlet heroes]
+tags: [solo-rpg, osr]
 categories: guide
 image:
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Tre blocchi statistiche per tutti i PNG"
 author: "zeruhur"
 comments: true
-tags: [strumenti, cairn]
+tags: [strumenti, cairn, nsr, osr]
 categories: strumenti
 image:
 ---

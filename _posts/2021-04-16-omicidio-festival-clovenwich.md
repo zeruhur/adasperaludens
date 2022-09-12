@@ -4,7 +4,7 @@ layout: post
 title:  "Un omicidio al festival"
 author: "zeruhur"
 comments: true
-tags: [osr, vecchio carnevale blogghereccio]
+tags: [osr, vecchio carnevale blogghereccio], avventure
 categories: avventure
 image:
 
