@@ -4,6 +4,7 @@ remote_theme: chesterhow/tale
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-feed
 
 # please replace the part after the colon (:) with what you want to be displayed
 
