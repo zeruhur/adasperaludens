@@ -15,23 +15,23 @@ Lo utilizzo sempre in modo generico, ma quando gestisco specificamente Into the 
 
 Ci sono tre blocchi di statistiche per i PNG, e questo è tutto. Punto.
 
-[1] = PNG di livello comune: abitanti del villaggio, scheletri[^1], folletti, coyote, sgherri.
-[2] = PNG di livello notevole: cavalieri, troll, velociraptor, orsi veri e propri, commandos.
+[1] = PNG di livello comune: abitanti del villaggio, scheletri[^1], folletti, coyote, sgherri.  
+[2] = PNG di livello notevole: cavalieri, troll, velociraptor, orsi veri e propri, commandos.  
 [3] = PNG di livello "boss": lich, maiali infernali, draghi, t-rex, armature da battaglia potenziate.
 
-[1] 3PF, 10 FOR/DES/VOL; arma (d6)
-- Semplice peculiarità e debolezza evidente
-- Comportamento, forza o elemento di disturbo
+[1] 3PF, 10 FOR/DES/VOL; arma (d6)  
+- Semplice peculiarità e debolezza evidente  
+- Comportamento, forza o elemento di disturbo  
 - Danno critico: di forte impatto e molto probabilmente bizzarro[^2]
 
-[2] 8PF, 13 FOR/DES/VOL; armi (d8+d6)
-- Presenza intimidatoria o effetto magico
-- Possibili danni da scoppio o incantesimi
+[2] 8PF, 13 FOR/DES/VOL; armi (d8+d6)  
+- Presenza intimidatoria o effetto magico  
+- Possibili danni da scoppio o incantesimi  
 - Danno critico: altera il contesto ed è pericoloso
 
-[3] 12PF, 17 FOR/DES/VOL; armi (d10+d8, scoppio)
-- Effetti e strategie che alterano il contesto
-- Molto intelligente e/o astuto, ne trarrà vantaggio con i giocatori
+[3] 12PF, 17 FOR/DES/VOL; armi (d10+d8, scoppio)  
+- Effetti e strategie che alterano il contesto  
+- Molto intelligente e/o astuto, ne trarrà vantaggio con i giocatori  
 - Danno critico: Fatevene una ragione, babbei, siete morti
 
 L'armatura viene aggiunta quando ha senso. Un lich non ha armatura. Un cavaliere della morte probabilmente ha armatura 3. Un mercenario che costa poco con una mitragliatrice probabilmente ha armatura 1. Se è plausibile e coerente, allora semplicemente lo è. Se non lo è, evitate pure.
